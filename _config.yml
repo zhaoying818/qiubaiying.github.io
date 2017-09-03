@@ -4,7 +4,7 @@ SEOTitle: 赵营的博客 | ZY Blog
 header-img: img/post-bg-desk.jpg
 email: zhaoying1258@qq.com
 description: "Dreams will come true！"
-keyword: "draiwng818,zhaoying818, ZY Blog, 赵营的博客, 邱柏荧, CI, CD, DevOps, Jenkins"
+keyword: "draiwng818,zhaoying818, ZY Blog, 赵营的博客, CI, CD, DevOps, Jenkins"
 url: "https://zhaoying818.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhaoying818/zhaoying818.github.io.git" # you code repository
