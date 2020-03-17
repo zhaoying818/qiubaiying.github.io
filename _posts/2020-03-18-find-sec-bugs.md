@@ -1,18 +1,23 @@
-layout:     post                    # 使用的布局（不需要改）
-title:      find-sec-bugs  # 标题 
-subtitle:   find-sec-bugs 简介                #副标题
-date:       2020-03-18              # 时间
-author:     drawing818                      # 作者
-header-img: img/post-bg-hacker.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - Spotbugs  find-sec-bugs maven
+---
+layout:     post      
+title:      find-sec-bugs 
+subtitle:   find-sec-bugs 简介           
+date:       2020-03-18             
+author:     drawing818                 
+header-img: img/post-bg-hacker.jpg    
+catalog: true                    
+tags:                              
+   - Spotbugs  
+   - find-sec-bugs maven
+---
+
+
 
 # 简介
 
 **[find-sec-bugs](https://find-sec-bugs.github.io/) 即 Find Security Bugs，是[SpotBugs](https://spotbugs.github.io/)的一款插件，用于Java Web应用程序的安全审核。**
 
-# 特性
+## 特性
 
 #### 1）135 种 bug 模型
 
@@ -39,8 +44,8 @@ tags:                               #标签
 
 项目开源，并且[欢迎大家参与贡献](https://github.com/find-sec-bugs/find-sec-bugs/graphs/contributors)。
 
-# 用法举例
-## Maven
+## 用法举例
+### Maven
 #### 1）配置POM
 配置[SpotBugs Maven Plugin](https://github.com/spotbugs/spotbugs-maven-plugin)到`pom.xml`。
 ```
